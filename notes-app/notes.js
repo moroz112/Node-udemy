@@ -8,6 +8,8 @@ const getNotes = () => {
 const removeNote = (title) => {
   const notes = loadNotes();
 
+  debugger;
+
   const newNotes = notes.filter((note) => {
     return note.title !== title
   });
