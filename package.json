@@ -1,0 +1,19 @@
+{
+  "name": "node-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node web-server/src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moroz112/Node-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moroz112/Node-udemy/issues"
+  },
+  "homepage": "https://github.com/moroz112/Node-udemy#readme"
+}
